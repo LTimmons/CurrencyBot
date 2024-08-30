@@ -1,0 +1,54 @@
+{
+  "files": {
+    "cogs/currency.py": [
+      {
+        "id": "3036a6ac-e1ee-4b0f-880c-5c2922670beb",
+        "line": 358,
+        "version": 18972,
+        "index": 11845
+      },
+      {
+        "id": "9146cada-86e8-418e-bb02-af4ca393628d",
+        "line": 449,
+        "version": 18972,
+        "index": 15682
+      }
+    ],
+    "cogs/reddit.py": [
+      {
+        "id": "9e03a277-c17a-44b6-b522-ab67375ab70f",
+        "line": 64,
+        "version": 1686,
+        "index": 1924
+      }
+    ],
+    "cogsFiles/currency.py": [
+      {
+        "id": "12961c0c-8ac0-4993-aae1-1585f3c76778",
+        "line": 1,
+        "version": 5944,
+        "index": 0
+      },
+      {
+        "id": "e43865d6-cdf9-4a8e-9ad9-1ef50f47bc3e",
+        "line": 1,
+        "version": 5944,
+        "index": 0
+      },
+      {
+        "id": "02d0f2a9-8ea5-4819-ba88-26166ffb0610",
+        "line": 669,
+        "version": 5944,
+        "index": 24116
+      }
+    ],
+    "cogsFiles/moderation.py": [
+      {
+        "id": "63a58f2a-a9d7-4cdd-9362-2dde4c4598d7",
+        "line": 60,
+        "version": 1892,
+        "index": 1773
+      }
+    ]
+  }
+}

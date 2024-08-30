@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "repl_python3_Discord-Bot"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Flask = "^2.0.2"
+praw = "^7.5.0"
+asyncpraw = "^7.5.0"
+discord-pretty-help = "^1.3.3"
+pymongo = "^3.12.1"
+utils = "^1.0.1"
+dnspython = "^2.1.0"
+typing-extensions = "^4.0.1"
+orjson = "^3.6.5"
+yarl = "^1.7.2"
+aiohttp = "^3.8.1"
+urbandict = "^0.6.1"
+urbandictionary = "^1.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
